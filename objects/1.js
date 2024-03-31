@@ -4,6 +4,8 @@ const obj1 = {
   c: 3,
 };
 
-console.log(obj1['a']);
-obj1['a'] = 4;
-console.log(obj1['a']);
+const theKey = "a";
+
+console.log(obj1["a"]);
+obj1[theKey] = 4;
+console.log(obj1["a"]);

@@ -11,5 +11,5 @@ function double2(array) {
 }
 
 const array = [6, 81, 22, 38, 49];
-console.log(double1(array));
-console.log(double2(array));
+console.log(double1(array)); // => [ 12, 162, 44, 76, 98 ]
+console.log(double2(array)); // => [ 12, 162, 44, 76, 98 ]

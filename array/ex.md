@@ -70,7 +70,6 @@ function filterStudents(students) {
   // ここにコードを追加してください
 }
 
-
 const students = [
   { name: "Alice", score: 52 },
   { name: "Bob", score: 34 },
